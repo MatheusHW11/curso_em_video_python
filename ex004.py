@@ -7,3 +7,6 @@ print('Ele é só espaço?', x.isspace())
 print('Está em maiúsculas ?', x.isupper())
 print('Está me minúsculas ?', x.islower())
 print('Está capitalizado?', x.istitle())
+
+
+print('Renan é p1ka')
